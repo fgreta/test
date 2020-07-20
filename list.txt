@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EE32-A53A
+
+ Directory of C:\Users\feher\Dokumentumok\Github\test
+
+2020. 07. 20.  19:10    <DIR>          .
+2020. 07. 20.  19:10    <DIR>          ..
+2020. 07. 20.  19:09                 0 echo
+2020. 07. 20.  19:10                 0 list.txt
+2020. 07. 20.  18:46                11 new
+2020. 07. 20.  18:42                25 README.md
+2020. 07. 20.  19:04                13 szia
+               5 File(s)             49 bytes
+               2 Dir(s)  276ÿ452ÿ560ÿ896 bytes free
